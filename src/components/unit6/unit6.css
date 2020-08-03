@@ -1,0 +1,42 @@
+.question{
+    background: rgb(244, 248, 244);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(11, 12, 12);
+    font-size: medium;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.answer{
+    background: rgb(102, 211, 107);
+    margin: 5px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: medium;
+    font-weight: 500;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.answer:hover{
+    background: rgb(44, 129, 44);
+    cursor: pointer;
+}
+
+.labelLink:hover{
+    cursor: pointer;
+    background: rgb(38, 40, 48);
+}
+
+.labelLink{
+    color: rgb(67, 69, 216);
+}
+
+.bai{
+    background: rgb(168, 202, 168);
+    border-radius: 15px;
+}
+
+.test{
+    color: rgb(204, 212, 223);
+}
+
